@@ -1,0 +1,50 @@
+C-S-n           new window
+C-n             new file
+C-o             open file
+C-s             save file
+C-S-s           save file as
+
+C-left          move to next word
+C-right         move to previous word
+
+C-up            move line or selection up
+C-down          move line or selection down
+C-S-d           duplicate line
+C-S-k           delete line
+C-j             join lines
+C-del           delete to end of word
+
+C-,             open settings
+C-p             fuzzy open file
+C-t             quick open file
+C-S-p           enter command
+
+S-A-up          add selection / cursor above
+S-A-down        add selection / cursor below
+C-l             select line
+C-A-m           select inside brackets
+C-S-left        select to begin of word
+C-S-right       select to end of word
+
+C-d             select next / add cursor next
+A-F3            select all / add cursor all
+C-S-f           find in project
+C-b             find buffer by file name
+
+C-S-F2          toggle bookmark
+F2              jump to next bookmark
+S-F2            jump to previous bookmark
+C-S-F2          show all bookmarks
+
+S-return        jumpy
+C-g             go to line
+
+C-k up          split up
+C-k down        split down
+C-k left        split left
+C-k right       split right
+
+C-k C-up        move up
+C-k C-down      move down
+C-k C-left      move left
+C-k C-right     move right
