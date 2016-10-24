@@ -25,6 +25,7 @@ C-l             select line
 C-A-m           select inside brackets
 C-S-left        select to begin of word
 C-S-right       select to end of word
+C-S-w           select whole word
 
 C-d             select next / add cursor next
 A-F3            select all / add cursor all
@@ -48,3 +49,13 @@ C-k C-up        move up
 C-k C-down      move down
 C-k C-left      move left
 C-k C-right     move right
+
+C-S-m           markdown preview
+C-.             keybinding resolver
+S-A-s           show available snippets
+C-m             go to matching bracket
+C-A-b           beautify
+C-k C-u         convert to upper case
+C-k C-l         convert to lower case
+C-e             use selection for find
+C-t             transpose character
